@@ -1,5 +1,5 @@
 # Mozzarella di Bufala Campana PDO Microbiome
-[![DOI](https://zenodo.org/badge/1190444617.svg)](https://doi.org/10.5281/zenodo.19203215)
+[![DOI](https://zenodo.org/badge/1190482561.svg)](https://doi.org/10.5281/zenodo.19203638)
 
 
 
